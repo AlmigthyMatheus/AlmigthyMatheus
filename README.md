@@ -1,6 +1,6 @@
 ### Olá! Eu sou Matheus 👋
 
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=AlmigthyMatheus&color=8e2de2) <!-- Badge de visualizações de perfil com cor roxa -->
+![GitHub Profile Views](https://img.shields.io/badge/Profile%20Views-%3F%3F%3F%3F-blue?style=flat-square&logo=github&color=8e2de2) <!-- Badge alternativa para visualizações de perfil -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmigthyMatheus&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <!-- Alterado para tema radical que combina com as cores do GIF -->
 
