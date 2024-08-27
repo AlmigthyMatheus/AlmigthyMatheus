@@ -1,7 +1,5 @@
 ### Olá! Eu sou Matheus 👋
 
-![Anime Image 1](https://cdn.lospec.com/gallery/1-john-19-311813.gif) <!-- GIF animado personalizado -->
-
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=AlmigthyMatheus&color=8e2de2) <!-- Badge de visualizações de perfil com cor roxa -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmigthyMatheus&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <!-- Alterado para tema radical que combina com as cores do GIF -->
