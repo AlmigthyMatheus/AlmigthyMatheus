@@ -1,6 +1,6 @@
 ### Olá! Eu sou Matheus 👋
 
-![Anime Image 1](https://cdn.lospec.com/gallery/1-john-19-311813.gif) <!-- Usar GIF animado que você forneceu -->
+![Anime Image 1](https://cdn.lospec.com/gallery/1-john-19-311813.gif) <!-- GIF animado personalizado -->
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=AlmigthyMatheus&color=8e2de2) <!-- Badge de visualizações de perfil com cor roxa -->
 
@@ -18,7 +18,7 @@
 
 ### Conecte-se Comigo:
 
-[![MEU PERFIL NA DIO](https://img.shields.io/badge/MEU%20PERFIL%20NA%20DIO-0C4B8E?style=for-the-badge&logo=diigo&logoColor=white&color=8e2de2)]([https://www.dio.me/users/matheusbrandaomatheus](https://web.dio.me/users/matheusbrandaomatheus?tab=achievements)) <!-- Badge personalizada para o perfil da DIO com cor roxa -->
+[![MEU PERFIL NA DIO](https://img.shields.io/badge/MEU%20PERFIL%20NA%20DIO-0C4B8E?style=for-the-badge&logo=diigo&logoColor=white&color=8e2de2)](https://web.dio.me/users/matheusbrandaomatheus?tab=achievements) <!-- Badge personalizada para o perfil da DIO com link para conquistas -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=8e2de2)](https://www.linkedin.com/in/matheus-brandao-a24444261/) <!-- Botão personalizado para o LinkedIn com cor roxa -->
 
 ---
