@@ -18,7 +18,7 @@
 
 ### Conecte-se Comigo:
 
-[![MEU PERFIL NA DIO](https://img.shields.io/badge/MEU%20PERFIL%20NA%20DIO-0C4B8E?style=for-the-badge&logo=diigo&logoColor=white&color=8e2de2)](https://www.dio.me/users/matheusbrandaomatheus) <!-- Badge personalizada para o perfil da DIO com cor roxa -->
+[![MEU PERFIL NA DIO](https://img.shields.io/badge/MEU%20PERFIL%20NA%20DIO-0C4B8E?style=for-the-badge&logo=diigo&logoColor=white&color=8e2de2)]([https://www.dio.me/users/matheusbrandaomatheus](https://web.dio.me/users/matheusbrandaomatheus?tab=achievements)) <!-- Badge personalizada para o perfil da DIO com cor roxa -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=8e2de2)](https://www.linkedin.com/in/matheus-brandao-a24444261/) <!-- Botão personalizado para o LinkedIn com cor roxa -->
 
 ---
