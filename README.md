@@ -6,9 +6,6 @@
 
 ![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlmigthyMatheus&show_icons=true&theme=radical) <!-- Alterado para tema radical que combina com as cores do GIF -->
 
-### 🏆 Meus Troféus no GitHub:
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlmigthyMatheus&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy) <!-- Badge de troféus com tema radical -->
-
 ### 🌟 Contribuições Recentes:
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AlmigthyMatheus&theme=radical) <!-- Ajustado o tema para radical -->
 
