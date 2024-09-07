@@ -3,7 +3,7 @@
 ![Followers](https://img.shields.io/github/followers/AlmigthyMatheus?style=flat-square&logo=github&color=8e2de2) <!-- Badge de seguidores do GitHub -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmigthyMatheus&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <!-- Alterado para tema radical que combina com as cores do GIF --->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmigthyMatheus&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <!-- Alterado para tema radical que combina com as cores do GIF -->
 
 
 ![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlmigthyMatheus&show_icons=true&theme=radical) <!-- Alterado para tema radical que combina com as cores do GIF -->
