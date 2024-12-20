@@ -9,9 +9,6 @@
 ![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlmigthyMatheus&show_icons=true&theme=radical) <!-- Alterado para tema radical que combina com as cores do GIF -->
 
 
-### 🌟 Contribuições Recentes:
-![GitHub Streak]([https://streak-stats.demolab.com/?user=AlmigthyMatheus&theme=radical](https://github-streak-stats.vercel.app/?user=AlmigthyMatheus&theme=radical)) <!-- Ajustado o tema para radical -->
-
 ---
 
 ### Conecte-se Comigo:
