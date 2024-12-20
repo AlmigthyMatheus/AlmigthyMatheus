@@ -10,8 +10,7 @@
 
 
 ### 🌟 Contribuições Recentes:
-![GitHub Streak](![GitHub Streak](https://github-readme-stats.vercel.app/api?username=AlmigthyMatheus&show_icons=true&theme=radical)
-) <!-- Ajustado o tema para radical -->
+![GitHub Streak]([https://streak-stats.demolab.com/?user=AlmigthyMatheus&theme=radical](https://github-streak-stats.vercel.app/?user=AlmigthyMatheus&theme=radical)) <!-- Ajustado o tema para radical -->
 
 ---
 
