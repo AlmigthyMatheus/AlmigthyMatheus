@@ -1,5 +1,7 @@
 ### Olá! Eu sou Matheus 👋
 
+![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3915719)
+
 ![Followers](https://img.shields.io/github/followers/AlmigthyMatheus?style=flat-square&logo=github&color=8e2de2) <!-- Badge de seguidores do GitHub -->
 
 
