@@ -1,7 +1,5 @@
 ### Olá! Eu sou Matheus 👋
 
-[![AlmightyMatheus's TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/AlmightyMatheus.png)](https://tryhackme.com/p/AlmightyMatheus)
-
 ![Followers](https://img.shields.io/github/followers/AlmigthyMatheus?style=flat-square&logo=github&color=8e2de2) <!-- Badge de seguidores do GitHub -->
 
 
