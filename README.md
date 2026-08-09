@@ -1,30 +1,90 @@
-### Olá! Eu sou Matheus 👋
+<div data-importer="image" align="center">
+  <img data-importer="image" height="500" src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1.0.0/gifs/hrzn/46ed3760-1a0b-4c73-b8d3-bd3aa1997c89.gif"  />
+</div>
 
-![Followers](https://img.shields.io/github/followers/AlmigthyMatheus?style=flat-square&logo=github&color=8e2de2) <!-- Badge de seguidores do GitHub -->
+###
 
+<h1 data-importer="text" align="center">hey there 👋</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmigthyMatheus&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <!-- Alterado para tema radical que combina com as cores do GIF -->
+###
 
+<h3 data-importer="text" align="center">👩‍💻  About Me</h3>
 
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlmigthyMatheus&show_icons=true&theme=radical) <!-- Alterado para tema radical que combina com as cores do GIF -->
+###
 
+<p data-importer="text" align="center">🎓 Cybersecurity Student starting my academic journey & exploring Pentesting<br>🐧 Linux enthusiast (Arch / CachyOS) with deep interest in system administration<br>🎯 Practicing hands-on labs on TryHackMe & Hack The Box<br>💻 Learning Python & Shell Scripting for security tools and automation<br>🚩 Participating in CTFs (Capture The Flag)</p>
 
----
+###
 
-### Conecte-se Comigo:
+<h3 data-importer="text" align="center">🛠 Language and tools</h3>
 
-[![MEU PERFIL NA DIO](https://img.shields.io/badge/MEU%20PERFIL%20NA%20DIO-0C4B8E?style=for-the-badge&logo=diigo&logoColor=white&color=8e2de2)](https://web.dio.me/users/matheusbrandaomatheus?tab=achievements) <!-- Badge personalizada para o perfil da DIO com link para conquistas -->
+###
 
----
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/r/276DC3" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/redhat/EE0000" height="40" alt="redhat logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/neovim/57A143" height="40" alt="neovim logo"  />
+</div>
 
-### Habilidades:
+###
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=8e2de2) <!-- Badge do Git com cor roxa -->
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=8e2de2) <!-- Badge do GitHub com cor roxa -->
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=8e2de2) <!-- Badge do HTML com cor roxa -->
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=8e2de2) <!-- Badge do CSS com cor roxa -->
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=8e2de2) <!-- Badge do JavaScript com cor roxa -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=8e2de2) <!-- Badge do Python com cor roxa -->
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&color=8e2de2) <!-- Badge do Linux com cor roxa -->
+<div data-importer="image" align="center">
+  <img data-importer="image" height="500" src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1.0.0/gifs/hrzn/64ea2569-bb21-4eb6-a775-8bf954725632.gif"  />
+</div>
 
----
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=AlmigthyMatheus&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div data-importer="socials" align="left">
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlmigthyMatheus/AlmigthyMatheus/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlmigthyMatheus/AlmigthyMatheus/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlmigthyMatheus/AlmigthyMatheus/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=AlmigthyMatheus.AlmigthyMatheus&"  />
+</div>
+
+###
