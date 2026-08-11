@@ -57,7 +57,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AlmigthyMatheus&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AlmigthyMatheus&theme=dark&hide_border=false&border_radius=5&mode=daily" height="220" alt="GitHub streak stats" />
 </div>
 
 <h3 align="center">🌐 Connect with me</h3>
